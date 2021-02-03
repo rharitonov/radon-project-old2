@@ -1,0 +1,26 @@
+{
+  "id": "312fbd8d-2ca2-4078-ac67-cf11c93ae2f8",
+  "name": "remote-ssh-helper",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://remote-ssh-helper.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
